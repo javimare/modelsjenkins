@@ -10,11 +10,11 @@ public class Persona {
 		this.nombre = nombre;
 	}
 	
-//	public Persona(String nombre, int edad) {
-//		super();
-//		this.nombre = nombre;
-//		this.edad = edad;
-//	}
+	public Persona(String nombre, int edad) {
+		super();
+		this.nombre = nombre;
+		this.edad = edad;
+	}
 
 	public int getEdad() {
 		return edad;
